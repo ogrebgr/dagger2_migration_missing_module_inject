@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///projects-src/as_projects/DaggerTestSub/DaggerTestSub.iml" filepath="/projects-src/as_projects/DaggerTestSub/DaggerTestSub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DaggerTestSub.iml" filepath="$PROJECT_DIR$/DaggerTestSub.iml" />
+      <module fileurl="file:///projects-src/as_projects/DaggerTestSub/app/app.iml" filepath="/projects-src/as_projects/DaggerTestSub/app/app.iml" />
+      <module fileurl="file:///projects-src/as_projects/DaggerTestSub/mylibrary/mylibrary.iml" filepath="/projects-src/as_projects/DaggerTestSub/mylibrary/mylibrary.iml" />
+    </modules>
+  </component>
+</project>
